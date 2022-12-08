@@ -11,10 +11,16 @@ You need local installs of both `bootstrap` and `sass` to generate the `style.cs
 Firstly you should install nodejs for npm via your preferred install method.
 
 Install `bootstrap`
-```$ npm install bootstrap@5.2.3```
+```
+$ npm install bootstrap@5.2.3
+```
 
 Install `sass` globally
-```# npm install -g sass```
+```
+# npm install -g sass
+```
 
 You can then generate the `style.css` with
-```$ sass [path to style.scss] [path to style.css]```
+```
+$ sass [path to style.scss] [path to style.css]
+```
