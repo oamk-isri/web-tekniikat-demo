@@ -1,0 +1,19 @@
+/**
+Follows the import convention described here
+https://getbootstrap.com/docs/5.2/customize/sass/#importing
+**/
+
+@import "../node_modules/bootstrap/scss/functions";
+
+/** actual overrides here **/
+
+
+$primary: #ffdc2b;
+
+
+/** --------------------- **/
+
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/maps";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/root";
