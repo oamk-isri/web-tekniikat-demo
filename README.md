@@ -1,4 +1,6 @@
 # Web Tekniikat
+NOTE: This is a school course project. You most likely wont find anything interesting here.
+
 Tools used:
 ```
 bootstrap@5.2.3
