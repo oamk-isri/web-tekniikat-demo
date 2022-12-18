@@ -2,7 +2,10 @@
 NOTE: This is a school course project. You most likely wont find anything interesting here.
 
 ## Tasks
-The "JavaScript Individual work" is done on `guestbook.html` page, which can be seen live [here](https://oamk-isri.github.io/web-tekniikat-demo/pages/guestbook.html).
+This repository aims to combine all tasks for the "Web Tekniikat" course.
+
+- **Bootstrap individual work** published with github pages, [Astrosite](https://oamk-isri.github.io/web-tekniikat-demo/index.html)
+- The **JavaScript Individual work** is done on `guestbook.html` page, which can be seen live on the website. [Direct link here](https://oamk-isri.github.io/web-tekniikat-demo/pages/guestbook.html).
 
 
 # Tooling
