@@ -5,11 +5,12 @@ https://getbootstrap.com/docs/5.2/customize/sass/#importing
 
 @import "../node_modules/bootstrap/scss/functions";
 
-/** actual overrides here **/
-
+/** 
+* Actual overrides. Here we use sass variables to change the internal magic of bootstrap
+* to change most "-primary" suffixed classes to use the set color.
+**/
 
 $primary: #ffdc2b;
-
 
 /** --------------------- **/
 
