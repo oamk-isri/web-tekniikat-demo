@@ -1,2 +1,12 @@
-# Documentation
-Here you can find the overall documentantion of the project.
+# UI Design
+
+It's no surprise that the main UI design guide was bootstraps nice defaults. However the default color scheme doesn't work for the project, so I chose a nice hue of yellow which I like.
+
+## Wireframes
+
+#### Full page
+![../images/wireframe-fullpage.png]
+
+#### mobile
+
+![../images/wireframe-mobile.png]
