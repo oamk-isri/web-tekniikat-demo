@@ -5,8 +5,7 @@ It's no surprise that the main UI design guide was bootstraps nice defaults. How
 ## Wireframes
 
 #### Full page
-![../images/wireframe-fullpage.png]
+![wireframe for large screens](../images/wireframe-fullpage.png)
 
 #### mobile
-
-![../images/wireframe-mobile.png]
+![wireframe for mobile devices](../images/wireframe-mobile.png)
