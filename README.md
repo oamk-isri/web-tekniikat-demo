@@ -2,7 +2,7 @@
 NOTE: This is a school course project. You most likely wont find anything interesting here.
 
 ## Tasks
-The "JavaScript Individual work" is done on ´guestbook.html´ page, which can be seen live [here](https://oamk-isri.github.io/web-tekniikat-demo/pages/guestbook.html).
+The "JavaScript Individual work" is done on `guestbook.html` page, which can be seen live [here](https://oamk-isri.github.io/web-tekniikat-demo/pages/guestbook.html).
 
 
 # Tooling
