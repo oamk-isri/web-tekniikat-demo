@@ -3,10 +3,7 @@
 let postComment = document.getElementById("postComment");
 let messageBox = document.getElementById("messageBox");
 
-
-
 postComment.addEventListener("click", postMessage);
-
 
 function postMessage() {
 
@@ -23,7 +20,6 @@ function postMessage() {
 
     let postTitle = document.createElement("h4");
     let postBody = document.createElement("p");
-
 
     // add bootstrap classes for the comment body
     postFrame.setAttribute("class", "container border p-4 mb-4");
@@ -46,7 +42,6 @@ function postMessage() {
     document.getElementById("nameField").value = "";
     document.getElementById("commentField").value = "";
     document.getElementById("importantToggle").checked = false;
-    
 }
 
 function dateConstructor() {
